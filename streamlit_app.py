@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-
+ 
 # URL dataset dari GitHub (ganti dengan URL dataset Anda)
 url = "https://raw.githubusercontent.com/ffzs/dataset/refs/heads/master/insurance.csv"
 
